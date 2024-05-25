@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @lokii49
-- 👀 I’m interested in python.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi,
 - 📫 How to reach me: email id: pudari.lokesh@gmail.com
 
 <!---
