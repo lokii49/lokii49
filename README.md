@@ -1,5 +1,5 @@
 - 👋 Hi,
-- 📫 How to reach me: email id: pudari.lokesh@gmail.com
+- 📫 How to reach me: email id: pudari.lokesh@icloud.com
 
 <!---
 lokii49/lokii49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
