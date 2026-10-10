@@ -1,6 +1,6 @@
 ### Hi, I'm Lokesh 👋
 
-I'm a software engineer in Hyderabad (5 years at Temenos, 3+ on its native iOS SDK). I've shipped three apps of my own on the App Store.
+I'm a software engineer in Hyderabad (5 years of experience, 3+ on its native iOS SDK). I've shipped three apps of my own on the App Store.
 Most of my recent work is about measuring whether model output is true. I write the rubric before the run, keep held-out cases, and only ship a change if it passes the gate.
 
 ---
